@@ -23,6 +23,10 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 🌟 Latest Projects  
+<!-- REPO-LIST:START -->
+- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
+- [jobsheet2_ASD](https://github.com/munnotmon/jobsheet2_ASD) - No description available.
+<!-- REPO-LIST:END -->
 
 ---
 
@@ -69,7 +73,3 @@ Tech Enthusiast | Team Player | Continuous Learner
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
 </p>
-<!-- REPO-LIST:START -->
-- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
-- [jobsheet2_ASD](https://github.com/munnotmon/jobsheet2_ASD) - No description available.
-<!-- REPO-LIST:END -->
