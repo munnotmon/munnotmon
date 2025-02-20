@@ -1,0 +1,30 @@
+name: Update Latest Repos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Update setiap 12 jam
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get latest repositories
+        run: |
+          echo "<!-- REPO-LIST:START -->" > temp.md
+          curl -s "https://api.github.com/users/munnotmon/repos?sort=created&per_page=3" | 
+          jq -r '.[] | "- [\(.name)](\(.html_url)) - \(.description // "No description available.")"' >> temp.md
+          echo "<!-- REPO-LIST:END -->" >> temp.md
+          sed -i -e '/<!-- REPO-LIST:START -->/,/<!-- REPO-LIST:END -->/d' README.md
+          cat temp.md >> README.md
+          rm temp.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated latest repositories" || exit 0
+          git push
