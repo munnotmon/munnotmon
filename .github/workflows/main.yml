@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.readme }} 
 
       - name: Get latest repositories
         run: |
@@ -17,7 +19,8 @@ jobs:
           curl -s "https://api.github.com/users/munnotmon/repos?sort=created&per_page=3" | 
           jq -r '.[] | "- [\(.name)](\(.html_url)) - \(.description // "No description available.")"' >> temp.md
           echo "<!-- REPO-LIST:END -->" >> temp.md
-          sed -i -e '/<!-- REPO-LIST:START -->/,/<!-- REPO-LIST:END -->/d' README.md
+          
+          sed -i '/<!-- REPO-LIST:START -->/,/<!-- REPO-LIST:END -->/d' README.md
           cat temp.md >> README.md
           rm temp.md
 
