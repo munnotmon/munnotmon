@@ -40,6 +40,13 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
+## 🎶 Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+---
+
 ## 🌸 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=tokyonight" height="165" />
