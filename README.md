@@ -41,10 +41,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🎶 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile-aubqsi13i-moonays-projects.vercel.app/api/spotify" />
-</p>
+## 🎵 Now Playing on Spotify  
+[![Spotify Now Playing](https://novatorem-USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 ---
 
