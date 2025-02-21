@@ -43,8 +43,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎵 Now Playing on Spotify  
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://spotify-now-playing-kappa.vercel.app/api/now-playing">
+    <img src="https://spotify-now-playing-kappa.vercel.app/api/now-playing" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
