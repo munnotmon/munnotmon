@@ -23,16 +23,6 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🌟 Latest Projects  
-
-<!-- REPO-LIST:START -->
-- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
-<!-- REPO-LIST:END -->
-
----
-
 ## ✨ Tech Stack 
 
 <p align="center">
@@ -44,13 +34,21 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🎧 My Favorite Playlist  
+## 🌟 Latest Projects  
 
-<div align="center">
+<!-- REPO-LIST:START -->
+- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify  
+- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile  
+- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.  
+<!-- REPO-LIST:END -->
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
+---
 
-</div>
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=dracula&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -63,11 +61,13 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🏆 Achievements  
+## 🎧 My Favorite Playlist  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=dracula&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
+
+</div>
 
 ---
 
@@ -87,7 +87,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 👀 Visitors 
+## 👀 Visitors  
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/munnotmon&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
