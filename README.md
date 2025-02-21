@@ -41,12 +41,11 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🎵 Now Playing on Spotify  
-<p align="center">
-  <a href="https://spotify-now-playing-kappa.vercel.app/api/now-playing">
-    <img src="https://spotify-now-playing-kappa.vercel.app/api/now-playing" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
+## 🎧 My Favorite Playlist  
+
+<p align="center">  
+[![Spotify Playlist](https://i.scdn.co/image/ab67616d0000b27306f8989d1714d663a9cf5e0b)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
+</p>  
 
 ---
 
