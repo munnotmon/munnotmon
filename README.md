@@ -63,7 +63,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🏆 Trophy  
+## 🏆 Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=dracula&margin-w=15&margin-h=15" />
