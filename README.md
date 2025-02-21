@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Business Information System Student at State Polytechnic of Malangg  
+Business Information System Student at State Polytechnic of Malang  
 </p>
   
 <p align="center">
@@ -16,13 +16,18 @@ Tech Enthusiast | Team Player | Continuous Learner
 ## 🌷 About Me  
 💡 Passionate about **technology, teamwork, and innovation**  
 📚 Currently learning **Java, databases, and software engineering**  
-🎬 Inspired by *Start-Up*, aiming to build something meaningful  
+🎮 Inspired by *Start-Up*, aiming to build something meaningful  
 ☕ Favorite combo: **Coding + Coffee + Chill Music 🎶**  
 📌 **Future Goals:** Becoming a software engineer & contributing to open-source  
 
 ---
 
 ## 🌟 Latest Projects  
+<!-- REPO-LIST:START -->
+- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
+- [jobsheet2_ASD](https://github.com/munnotmon/jobsheet2_ASD) - No description available.
+- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
+<!-- REPO-LIST:END -->
 
 ---
 
@@ -38,7 +43,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎶 Now Playing  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://novatorem-munnotmon.vercel.app/api/spotify" />
 </p>
 
 ---
@@ -83,8 +88,3 @@ Tech Enthusiast | Team Player | Continuous Learner
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
 </p>
-<!-- REPO-LIST:START -->
-- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
-- [jobsheet2_ASD](https://github.com/munnotmon/jobsheet2_ASD) - No description available.
-<!-- REPO-LIST:END -->
