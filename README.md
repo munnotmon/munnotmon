@@ -14,6 +14,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 🌷 About Me  
+
 💡 Passionate about **technology, teamwork, and innovation**  
 📚 Currently learning **Java, databases, and software engineering**  
 🎮 Inspired by *Start-Up*, aiming to build something meaningful  
@@ -24,9 +25,16 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🌟 Latest Projects  
 
+<!-- REPO-LIST:START -->
+- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify
+- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
+- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
+<!-- REPO-LIST:END -->
+
 ---
 
-## ✨ Tech Stack  
+## ✨ Tech Stack 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,15 +46,16 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎧 My Favorite Playlist  
 
-<p align="center">   
+<div align="center">
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
 
-</p>  
+</div>
 
 ---
 
 ## 🌸 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=munnotmon&theme=tokyonight" height="165" />
@@ -55,6 +64,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 🏆 Trophy  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=dracula&margin-w=15&margin-h=15" />
 </p>
@@ -62,6 +72,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 💌 Let's Connect!  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/maulida-aprina-putri-37a37a352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -76,7 +87,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 👀 Visitors  
+## 👀 Visitors 
+
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/munnotmon&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
 </p>
@@ -86,8 +98,3 @@ Tech Enthusiast | Team Player | Continuous Learner
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
 </p>
-<!-- REPO-LIST:START -->
-- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
-<!-- REPO-LIST:END -->
