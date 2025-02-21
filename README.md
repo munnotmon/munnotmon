@@ -42,7 +42,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 🎵 Now Playing on Spotify  
-[![Spotify Now Playing](https://novatorem-USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify Now Playing](https://novatorem-munnotmon.vercel.app/api/spotify)](https://open.spotify.com/user/0smvwlyxyzyz24bas3tveiv8a)
+
 
 ---
 
