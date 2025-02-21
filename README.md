@@ -42,8 +42,11 @@ Tech Enthusiast | Team Player | Continuous Learner
 ---
 
 ## 🎵 Now Playing on Spotify  
-[![Spotify Now Playing](https://novatorem-munnotmon.vercel.app/api/spotify?t=123456)](https://open.spotify.com/user/0smvwlyxyzyz24bas3tveiv8a)
-
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0smvwlyxyzyz24bas3tveiv8a&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
 
 ---
 
