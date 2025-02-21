@@ -43,9 +43,10 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎧 My Favorite Playlist  
 
-<p align="center">  
-## 🎧 My Favorite Playlist  
+<p align="center">   
+
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
+
 </p>  
 
 ---
