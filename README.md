@@ -43,7 +43,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎶 Now Playing  
 <p align="center">
-  <img src="https://novatorem-munnotmon.vercel.app/api/spotify" />
+  <img src="![Now Playing](https://spotify-github-profile-aubqsi13i-moonays-projects.vercel.app/api/spotify)
+" />
 </p>
 
 ---
