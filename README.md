@@ -43,8 +43,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🎶 Now Playing  
 <p align="center">
-  <img src="![Now Playing](https://spotify-github-profile-aubqsi13i-moonays-projects.vercel.app/api/spotify)
-" />
+  <img src="https://spotify-github-profile-aubqsi13i-moonays-projects.vercel.app/api/spotify" />
 </p>
 
 ---
