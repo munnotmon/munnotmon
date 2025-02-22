@@ -36,11 +36,6 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ## 🌟 Latest Projects  
 
-<!-- REPO-LIST:START -->
-- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify  
-- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile  
-- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.  
-<!-- REPO-LIST:END -->
 
 ---
 
@@ -98,3 +93,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
 </p>
+<!-- REPO-LIST:START -->
+- [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify
+- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
+- [munnotmon](https://github.com/munnotmon/munnotmon) - No description available.
+<!-- REPO-LIST:END -->
