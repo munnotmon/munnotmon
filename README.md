@@ -95,7 +95,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 <!-- REPO-LIST:START -->
+- [Kuis01_ASD](https://github.com/munnotmon/Kuis01_ASD) - No description available.
 - [jobsheet3_ASD](https://github.com/munnotmon/jobsheet3_ASD) - No description available.
 - [novatorem](https://github.com/munnotmon/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-- [spotify-github-profile](https://github.com/munnotmon/spotify-github-profile) - Show your Spotify playing on your Github profile
 <!-- REPO-LIST:END -->
