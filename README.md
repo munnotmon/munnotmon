@@ -51,11 +51,15 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🎧 My Favorite Playlist  
+## 🎧 Spotify  
 
 <div align="center">
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0smvwlyxyzyz24bas3tveiv8a)
+
 
 </div>
 
