@@ -51,7 +51,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🎧 Spotify  
+## 🎧 Find Me on Spotify  
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 💌 Let's Connect!  
+## <p align="left"> 💌 Let's Connect!  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maulida-aprina-putri-37a37a352/">
@@ -81,13 +81,14 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 👀 Visitors  
+## <p align="left"> 👀 Visitors  
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/munnotmon&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
 </p>
 
 ---
+## <p align="left"> ❗️ Reminder
 
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
@@ -95,14 +96,12 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## 🌟 Latest Projects  
+## <p align="left"> 🌟 Latest Projects  
 
-<p align="left"> 
-  
-
-</p
 <!-- REPO-LIST:START -->
-- [jobsheet6_ASD](https://github.com/munnotmon/jobsheet6_ASD) - No description available.
-- [jobsheet5_ASD](https://github.com/munnotmon/jobsheet5_ASD) - No description available.
-- [Kuis01_ASD](https://github.com/munnotmon/Kuis01_ASD) - No description available.
+- <p align="left"> [jobsheet6_ASD](https://github.com/munnotmon/jobsheet6_ASD) No description available.  </p>
+
+- <p align="left"> [jobsheet5_ASD](https://github.com/munnotmon/jobsheet5_ASD) No description available.  </p>
+
+- <p align="left"> [Kuis01_ASD](https://github.com/munnotmon/Kuis01_ASD) No description available.  </p>
 <!-- REPO-LIST:END -->
