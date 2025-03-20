@@ -50,6 +50,13 @@ Tech Enthusiast | Team Player | Continuous Learner
 </p>  
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munnotmon&theme=dracula" />
+</p>
+
+---
 
 ## 🎧 Find Me on Spotify  
 
