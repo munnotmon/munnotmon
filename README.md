@@ -91,9 +91,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 ## <p align="left"> 👀 Visitors  
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=munnotmon&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=munnotmon" />
 </p>
-
 
 ---
 ## <p align="left"> ❗️ Reminder
