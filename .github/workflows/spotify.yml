@@ -1,8 +1,6 @@
 name: Update Spotify Now Playing
 
 on:
-  schedule:
-    - cron: "*/30 * * * *" # Update setiap 30 menit
 
   workflow_dispatch:
 
