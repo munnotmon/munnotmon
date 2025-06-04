@@ -2,8 +2,6 @@ name: Update Spotify Now Playing
 
 on:
 
-  workflow_dispatch:
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
