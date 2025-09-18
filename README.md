@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm Maulida Aprina Putri! 💗 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Tech+Enthusiast+%7C+Team+Player;Always+Learning+%7C+Passionate+Coder;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&width=650&height=120&lines=Drinks+her+coffee+while+codin g;Smiles+at+bugs+like+they're+free;Every+line+she+keeps+unfoldin g;Welcome+to+my+GitHub+Profile e" />
 </p>
 
 <p align="center">
