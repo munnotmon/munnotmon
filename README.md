@@ -117,13 +117,13 @@ Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student*
 ## 🌟 Latest Projects
 
 <ul>
-<!-- REPO-LIST:START -->
-<li><a href="https://github.com/munnotmon/CM2_Kelompok6_ASD">CM2_Kelompok6_ASD</a> - Maulida Aprina Putri - 244107060098</li>
-<li><a href="https://github.com/munnotmon/punya_muna">punya_muna</a> - No description available.</li>
-<li><a href="https://github.com/munnotmon/jobsheet14_ASD">jobsheet14_ASD</a> - No description available.</li>
-<!-- REPO-LIST:END -->
 </ul>
 
 <p 
   align="center"> <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" /> 
 </p>
+<!-- REPO-LIST:START -->
+- [Pemrograman-Berbasis-Objek](https://github.com/munnotmon/Pemrograman-Berbasis-Objek) - Mata kuliah semester 3
+- [Pemrograman-Web](https://github.com/munnotmon/Pemrograman-Web) - Mata kuliah semester 3
+- [CM2_Kelompok6_ASD](https://github.com/munnotmon/CM2_Kelompok6_ASD) - Maulida Aprina Putri - 244107060098
+<!-- REPO-LIST:END -->
