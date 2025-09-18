@@ -1,29 +1,37 @@
 <h1 align="center">✨ Hello, I'm Maulida Aprina Putri! 💗 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Tech+Enthusiast+%7C+Team+Player;Always+Learning+%7C+Passionate+Coder;Welcome+to+my+GitHub+Profile!+💗" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Tech+Enthusiast+%7C+Team+Player;Always+Learning+%7C+Passionate+Coder;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
-Business Information System Student at State Polytechnic of Malang  
+  <strong>Business Information System Student at State Polytechnic of Malang</strong>
 </p>
-  
+
 <p align="center">
-Tech Enthusiast | Team Player | Continuous Learner   
+  <em>Tech Enthusiast | Team Player | Continuous Learner</em>
 </p>
 
 ---
 
-## 🌷 About Me  
+## 💕 About Me
 
-💡 Passionate about **technology, teamwork, and innovation**  
-📚 Currently learning **Java, databases, and software engineering**  
-🎮 Roblox, The Sims, Genshin Impact, Honkai: Star Rail, Google Dino  
-☕  Favorite combo: **Coding + Coffee + Chill Music 🎶**  
-📌 **Future Goals:** Becoming a software engineer & contributing to open-source  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd5MTBidzhtODA0Y2JkcjBpcDRjaDM5YWkwOG9nNnM3NnlicTNtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="250" style="border-radius:15px;" />
+</p>
+
+Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student** with a love for tech, coding, and collaborative problem-solving. I enjoy working on **Java projects**, databases, and learning new tools to build practical and innovative solutions.  
+
+**A few things about me:**  
+- 💡 Passionate about **technology, programming, and teamwork**  
+- 📚 Learning **Java, SQL, and software engineering principles**  
+- 🎮 Gamer at heart: Roblox, The Sims, Genshin Impact  
+- ☕ Coding fuel: coffee + focus-driven playlists  
+- 🎯 **Future Goal:** Software Engineer & Open-Source Contributor  
 
 ---
 
-## ✨ Tech Stack 
+## 🌸 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -31,50 +39,40 @@ Tech Enthusiast | Team Player | Continuous Learner
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-</p>  
+</p>
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=tokyonight&margin-w=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=flat&no-frame&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-## 🌸 GitHub Stats  
+## 🌸 GitHub Highlights
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnotmon&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🌸 GitHub Streak
-
-<p align = "center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=munnotmon&theme=tokyonight&border_radius=5.5" alt="GitHub Streak" />
-</p>
-  
----
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munnotmon&theme=dracula" />
-</p>
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=rose" alt="GitHub Stats" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnotmon&layout=compact&theme=rose" alt="Top Languages" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://streak-stats.demolab.com?user=munnotmon&theme=tokyonight&border_radius=5.5" alt="GitHub Streak" />
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=munnotmon&theme=gruvbox" alt="Contribution Graph" />
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -83,7 +81,6 @@ Tech Enthusiast | Team Player | Continuous Learner
 <div align="center">
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI)
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0smvwlyxyzyz24bas3tveiv8a)
 
@@ -92,9 +89,9 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## <p align="left"> 💌 Let's Connect!  
+## 💌 Let's Connect!
 
-<p align="center">
+  <p align="center">
   <a href="https://www.linkedin.com/in/maulida-aprina-putri-37a37a352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -105,17 +102,11 @@ Tech Enthusiast | Team Player | Continuous Learner
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+</div>
 
 ---
 
-## <p align="left"> 👀 Visitors  
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=munnotmon" />
-</p>
-
----
-## <p align="left"> ❗️ Reminder
+## ❗ Reminder
 
 <p align="center">
 ✨ "For indeed, with hardship comes ease. Indeed, with hardship comes ease." (QS. Al-Insyirah: 5-6) ✨
@@ -123,11 +114,12 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 ---
 
-## <p align="left"> 🌟 Latest Projects  
+## 🌟 Latest Projects
 
-
+<ul>
 <!-- REPO-LIST:START -->
-- [CM2_Kelompok6_ASD](https://github.com/munnotmon/CM2_Kelompok6_ASD) - Maulida Aprina Putri - 244107060098
-- [punya_muna](https://github.com/munnotmon/punya_muna) - No description available.
-- [jobsheet14_ASD](https://github.com/munnotmon/jobsheet14_ASD) - No description available.
+<li><a href="https://github.com/munnotmon/CM2_Kelompok6_ASD">CM2_Kelompok6_ASD</a> - Maulida Aprina Putri - 244107060098</li>
+<li><a href="https://github.com/munnotmon/punya_muna">punya_muna</a> - No description available.</li>
+<li><a href="https://github.com/munnotmon/jobsheet14_ASD">jobsheet14_ASD</a> - No description available.</li>
 <!-- REPO-LIST:END -->
+</ul>
