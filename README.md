@@ -124,7 +124,6 @@ Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student*
 <!-- REPO-LIST:END -->
 </ul>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef/68747470733a2f2f696d6775722e636f6d2f7072696e6b2d636f636f6e61742d6772616469656e2e706e67" width="100%" style="border-radius:12px;" />
+<p 
+  align="center"> <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" /> 
 </p>
-
