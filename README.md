@@ -25,7 +25,7 @@ Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student*
 **A few things about me:**  
 - 💡 Passionate about **technology, programming, and teamwork**  
 - 📚 Learning **Java, SQL, and software engineering principles**  
-- 🎮 Gamer at heart: Roblox, The Sims, Genshin Impact  
+- 🎮 Bored? Time to play: Roblox, The Sims, Genshin Impact 
 - ☕ Coding fuel: coffee + focus-driven playlists  
 - 🎯 **Future Goal:** Software Engineer & Open-Source Contributor  
 
