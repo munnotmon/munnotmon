@@ -17,8 +17,8 @@ Tech Enthusiast | Team Player | Continuous Learner
 
 💡 Passionate about **technology, teamwork, and innovation**  
 📚 Currently learning **Java, databases, and software engineering**  
-🎮 Inspired by *Start-Up*, aiming to build something meaningful  
-☕ Favorite combo: **Coding + Coffee + Chill Music 🎶**  
+🎮 Roblox, The Sims, Genshin Impact, Honkai: Star Rail, Google Dino  
+☕  Favorite combo: **Coding + Coffee + Chill Music 🎶**  
 📌 **Future Goals:** Becoming a software engineer & contributing to open-source  
 
 ---
@@ -38,7 +38,7 @@ Tech Enthusiast | Team Player | Continuous Learner
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=dracula&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=tokyonight&margin-w=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
@@ -46,9 +46,29 @@ Tech Enthusiast | Team Player | Continuous Learner
 ## 🌸 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=tokyonight" height="165" />
-</p>  
+  <table>
+    <tr>
+      <td align="center">
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=munnotmon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <!-- Top Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnotmon&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
+---
+
+## 🌸 GitHub Streak
+
+<p align = "center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=munnotmon&theme=tokyonight&border_radius=5.5" alt="GitHub Streak" />
+</p>
+  
 ---
 ## 📈 Contribution Graph
 
