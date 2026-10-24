@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm Maulida Aprina Putri! 💗 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&width=650&height=120&lines=Drinks+Her+Coffee+While+Coding;Smiles+at+Bugs+Like+They're+Free;Every+Line+She+Keeps+Unfolding;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&width=650&height=120&lines=IT+Business+Analyst+%26+Tech+Enthusiast;Crafting+Code+with+Empathy;Fuelled+by+Coffee+%26+Good+Music;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Tech Enthusiast | Team Player | Continuous Learner</em>
+  <em>IT Business Analyst | Full-Stack Developer | Continuous Learner</em>
 </p>
 
 ---
@@ -17,17 +17,17 @@
 ## 💕 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="200" style="border-radius:15px;" alt="Hello Kitty GIF" />
+  <img src="https://i.pinimg.com/originals/a2/b5/70/a2b570691e8ea36a0dc15a0c30aef484.gif" width="200" style="border-radius:15px;" alt="Kawaii Pink GIF" />
 </p>
 
-Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student** with a love for tech, coding, and collaborative problem-solving. I enjoy working on **Java projects**, databases, and learning new tools to build practical and innovative solutions.  
+Hi there! I'm **Maulida (Muna)**, a **Business Information System student** who loves bridging the gap between business needs and technological solutions. I combine software engineering skills with empathetic user advocacy to build digital platforms that address real-world organizational challenges. 
 
 **A few things about me:**  
-- 💡 Passionate about **technology, programming, and teamwork**  
-- 📚 Learning **Java, SQL, and software engineering principles**  
-- 🎮 Bored? Time to play: Roblox, The Sims, Genshin Impact 
-- ☕ Coding fuel: coffee + focus-driven playlists  
-- 🎯 **Future Goal:** Software Engineer & Open-Source Contributor  
+- 💡 Passionate about **system analysis, full-stack development, and enterprise process modeling**.  
+- 🚀 Currently building robust solutions like **PAGORA** (B2B E-Procurement) and **Polinema Care+**.
+- 🎮 Bored? Time to play: GTA RP, Roblox, The Sims, or Genshin Impact.
+- ☕ Coding fuel: coffee + focus-driven playlists.  
+- 🎯 **Future Goal:** IT Business Analyst & Pursuing a Master's Degree (S2).  
 
 ---
 
@@ -60,11 +60,12 @@ Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student*
 </p>
 
 ---
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munnotmon&theme=flat&no-frame&margin-w=15&no-frame=true" />
-</p>
+## 🚀 Highlighted Projects
+
+- **PAGORA** — An integrated B2B e-procurement web portal automating industrial raw material procurement with predictive price ceilings and 3-way matching verification.
+- **Polinema Care+** — A mobile reporting and counseling platform utilizing a Laravel REST API, React, and Flutter to streamline campus anti-bullying reporting.
+- **IoTani** — A smart agro-services project representing Politeknik Negeri Malang in national and international business case competitions.
 
 ---
 
@@ -109,7 +110,7 @@ Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student*
 
 ---
 
-## 🌟 Latest Projects
+## 🌟 Latest Repositories
 
 <!-- REPO-LIST:START -->
 - [BasisDataLanjut](https://github.com/munnotmon/BasisDataLanjut) - No description available.
