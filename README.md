@@ -1,15 +1,15 @@
 <h1 align="center">✨ Hello, I'm Maulida Aprina Putri! 💗 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&width=650&height=120&lines=Drinks+Her+Coffee+While+Coding;Smiles+at+Bugs+Like+They're+Free;Every+Line+She+Keeps+Unfolding;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&width=650&height=120&lines=Drinks+Her+Coffee+While+Coding;Smiles+at+Bugs+Like+They're+Free;Every+Line+She+Keeps+Unfolding;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
-  <strong>Business Information System Student at State Polytechnic of Malang</strong>
+  <strong>Business Information System Student at State Polytechnic of Malang</strong>
 </p>
 
 <p align="center">
-  <em>Tech Enthusiast | Team Player | Continuous Learner</em>
+  <em>Tech Enthusiast | Team Player | Continuous Learner</em>
 </p>
 
 ---
@@ -17,17 +17,17 @@
 ## 💕 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd5MTBidzhtODA0Y2JkcjBpcDRjaDM5YWkwOG9nNnM3NnlicTNtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="250" style="border-radius:15px;" />
+  <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="200" style="border-radius:15px;" alt="Hello Kitty GIF" />
 </p>
 
-Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student** with a love for tech, coding, and collaborative problem-solving. I enjoy working on **Java projects**, databases, and learning new tools to build practical and innovative solutions.  
+Hi there! I'm **Maulida Aprina Putri**, a **Business Information System student** with a love for tech, coding, and collaborative problem-solving. I enjoy working on **Java projects**, databases, and learning new tools to build practical and innovative solutions.  
 
-**A few things about me:**  
-- 💡 Passionate about **technology, programming, and teamwork**  
-- 📚 Learning **Java, SQL, and software engineering principles**  
-- 🎮 Bored? Time to play: Roblox, The Sims, Genshin Impact 
-- ☕ Coding fuel: coffee + focus-driven playlists  
-- 🎯 **Future Goal:** Software Engineer & Open-Source Contributor  
+**A few things about me:**  
+- 💡 Passionate about **technology, programming, and teamwork**  
+- 📚 Learning **Java, SQL, and software engineering principles**  
+- 🎮 Bored? Time to play: Roblox, The Sims, Genshin Impact 
+- ☕ Coding fuel: coffee + focus-driven playlists  
+- 🎯 **Future Goal:** Software Engineer & Open-Source Contributor  
 
 ---
 
