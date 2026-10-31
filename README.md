@@ -80,16 +80,6 @@ I'm passionate about connecting business perspectives with technical knowledge t
 
 ---
 
-## 🚀 Highlighted Projects
-
-- **PAGORA** — An integrated B2B e-procurement platform designed to streamline industrial raw material procurement through business process automation, predictive price recommendations, and 3-way matching verification.
-
-- **Polinema Care+** — A mobile-friendly anti-bullying reporting and counseling platform designed to provide students with a safe and confidential environment to report incidents and access support.
-
-- **IoTani** — A smart agro-services project developed to address agricultural business challenges, representing State Polytechnic of Malang in national and international business case competitions.
-
----
-
 ## 📊 GitHub Highlights
 
 <table align="center">
@@ -115,7 +105,7 @@ I'm passionate about connecting business perspectives with technical knowledge t
 
 ---
 
-## 🎧 Coding Fuel & Spotify Vibes
+## 🎧 Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3Ug8WYbq734yRCSwazeSlI">
