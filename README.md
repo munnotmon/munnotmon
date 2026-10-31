@@ -21,7 +21,7 @@
   <img src="https://i.pinimg.com/originals/a2/b5/70/a2b570691e8ea36a0dc15a0c30aef484.gif" width="200" style="border-radius:15px;" alt="Kawaii Pink GIF" />
 </p>
 
-Hi there! I'm **Maulida (Muna)**, a **Business Information System student** with a strong interest in Business Analysis and Information Systems. I enjoy understanding business challenges, analyzing processes, and translating organizational needs into effective technology-driven solutions.
+Hi there! I'm **Muna**, a **Business Information System student** with a strong interest in Business Analysis and Information Systems. I enjoy understanding business challenges, analyzing processes, and translating organizational needs into effective technology-driven solutions.
 
 I'm passionate about connecting business perspectives with technical knowledge to create systems that deliver meaningful value.
 
